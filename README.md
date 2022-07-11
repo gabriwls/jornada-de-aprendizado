@@ -1,5 +1,5 @@
 # Repositório de Aprendizado
-Criado para a realização do desafio de Git/GitHub da DIO, é uma reunião de minhas anotações e meus exercícios.
+Cada pasta recebe o nome de um curso da [DIO](https://www.dio.me/) concluído por mim, guardando dentro de si os exercícios e anotações relacionados.
 
-## Links úteis:
-> [Sintaxe básica de *Markdown*](https://www.markdownguide.org/basic-syntax/)
+### Links úteis:
+- [*Markdown Guide: Basic Syntax*](https://www.markdownguide.org/basic-syntax/)
